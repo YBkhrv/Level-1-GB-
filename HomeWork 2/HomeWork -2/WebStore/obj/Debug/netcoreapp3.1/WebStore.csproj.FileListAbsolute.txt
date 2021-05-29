@@ -1,0 +1,236 @@
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.csprojAssemblyReference.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.AssemblyInfoInputs.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.AssemblyInfo.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.csproj.CoreCompileInputs.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.MvcApplicationPartsAssemblyInfo.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.RazorAssemblyInfo.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.RazorAssemblyInfo.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\staticwebassets\WebStore.StaticWebAssets.Manifest.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\staticwebassets\WebStore.StaticWebAssets.xml
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebStore.styles.css
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.TagHelpers.input.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.TagHelpers.output.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.RazorCoreGenerate.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Delete.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Edit.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\BlogSingle.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\CheckOut.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_CategoryTab.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_FeaturesItems.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_LeftSideBar.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_RecomendedItems.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_Slider.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductDetails.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Shop.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_Footer.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_Header.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_MainMenu.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_PageInDevelopment.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_Scripts.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_Styles.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_404.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.RazorTargetAssemblyInfo.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.RazorTargetAssemblyInfo.cs
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.Views.pdb
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.dll
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C# ASP.NET Core. Уровень 1\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\geekbrains-csharp-asp.net-core-level-1-HomeWork_2\WebStore\obj\Debug\netcoreapp3.1\WebStore.pdb
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\libman.json
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\App_Data\AppDB.sqlite
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\WebStore.exe
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\WebStore.deps.json
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\WebStore.runtimeconfig.json
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\WebStore.runtimeconfig.dev.json
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\WebStore.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\WebStore.pdb
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\WebStore.Views.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\WebStore.Views.pdb
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.csprojAssemblyReference.cache
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.AssemblyInfoInputs.cache
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.AssemblyInfo.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.csproj.CoreCompileInputs.cache
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.MvcApplicationPartsAssemblyInfo.cache
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.RazorAssemblyInfo.cache
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.RazorAssemblyInfo.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\staticwebassets\WebStore.StaticWebAssets.Manifest.cache
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\staticwebassets\WebStore.StaticWebAssets.xml
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebStore.styles.css
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.TagHelpers.input.cache
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.TagHelpers.output.cache
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.RazorCoreGenerate.cache
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Delete.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Edit.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\BlogSingle.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\CheckOut.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_CategoryTab.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_FeaturesItems.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_LeftSideBar.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_RecomendedItems.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial\_Slider.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductDetails.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Shop.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_Footer.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_Header.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_MainMenu.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_PageInDevelopment.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_Scripts.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial\_Styles.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_404.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.RazorTargetAssemblyInfo.cache
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.RazorTargetAssemblyInfo.cs
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.Views.pdb
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.csproj.CopyComplete
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.dll
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.pdb
+D:\SearchEngine\Level-1-GB-\HomeWork 2\HomeWork -2\WebStore\obj\Debug\netcoreapp3.1\WebStore.genruntimeconfig.cache
